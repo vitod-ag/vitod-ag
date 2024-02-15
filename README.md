@@ -13,7 +13,8 @@
 
 
 • I know to use:
-[![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)](https://validator.w3.org/)
+[![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)](https://validator.w3.org/)
+
 
 
 
