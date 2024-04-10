@@ -45,3 +45,7 @@
 <p align="left">My Linkedin:  https://www.linkedin.com/in/vito-dagnello-9a38761b1/</p>
 
 ###
+
+<img src="https://raw.githubusercontent.com/vitod-ag/vitod-ag/output/snake.svg" alt="Snake animation" />
+
+###
