@@ -1,29 +1,52 @@
-### Hi there, I'm Vito 👋
+<h1 align="left">Hi there! I'm Vito 👋</h1>
 
-• 🎯 I'm focused on learning coding
+###
 
+<p align="left">My name is Vito and I'm a Junior Full-Stack Developer from Barletta(BT), Italy</p>
 
-• 🏡 I'm living in Barletta, BT (Italy)
+###
 
+<h2 align="left">About me</h2>
 
-• 👍 Interests: tech, football, music, books, films
+###
 
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning coding<br>🎯 Goals: Build a responsive website using HTML, CSS, and JavaScript, <br>🎲 Fun fact: Interests: tech, football, music, books, films</p>
 
-• 🔗 My Linkedin-page: https://www.linkedin.com/in/vito-dagnello-9a38761b1/
+###
 
+<h2 align="left">I code with</h2>
 
-• I know to use:
+###
 
-[![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)](https://validator.w3.org/)&nbsp;&nbsp;[![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)&nbsp;&nbsp;[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)&nbsp;&nbsp;[![SQL](https://img.shields.io/badge/-MySQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)&nbsp;&nbsp;[![Sass](https://img.shields.io/badge/-Sass-pink?style=for-the-badge&logo=sass&logoColor=white)](https://validator.w3.org/)&nbsp;&nbsp;[![Bootsrap](https://img.shields.io/badge/-Bootstrap-violet?style=for-the-badge&logo=bootstrap&logoColor=white)](https://validator.w3.org/)&nbsp;&nbsp;[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typeScript&logoColor=white)](https://validator.w3.org/)&nbsp;&nbsp;[![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular&logoColor=white)](https://validator.w3.org/)&nbsp;&nbsp;
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+</div>
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitod-ag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="158" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=vitod-ag&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
+###
 
+<img src="https://raw.githubusercontent.com/vitod-ag/vitod-ag/output/snake.svg" alt="Snake animation" />
 
+###
 
+<p align="left">My Linkedin:  https://www.linkedin.com/in/vito-dagnello-9a38761b1/</p>
 
-
-
-
-
-
+###
